@@ -1,0 +1,43 @@
+# ── Dataset (too large for GitHub — 12+ GB of BMP images) ───────────────────
+Dataset/
+Dataset.zip
+MURA_ MSK Xrays_files/
+
+# ── Model checkpoints (42–555 MB each — use Git LFS or store separately) ────
+models/*.pth
+models/**/*.pth
+
+# ── Python cache ─────────────────────────────────────────────────────────────
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+
+# ── Jupyter notebook checkpoints ─────────────────────────────────────────────
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# ── OS files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ── Environment ──────────────────────────────────────────────────────────────
+.env
+.venv/
+venv/
+env/
+
+# ── IDE ───────────────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.code-workspace
+
+# ── Temporary / scratch files ─────────────────────────────────────────────────
+*.tmp
+*.log
+~$*

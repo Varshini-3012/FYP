@@ -1,0 +1,15 @@
+column,original,encoded
+Sex,F,0
+Sex,M,1
+Sex,O,2
+Center,HMCRD,0
+Center,HU1,1
+Center,HU2,2
+Center,HU3,3
+Center,SARC,4
+Center,SCGH,5
+LR,L,0
+LR,LR,1
+LR,R,2
+laterality,L,0
+laterality,R,1

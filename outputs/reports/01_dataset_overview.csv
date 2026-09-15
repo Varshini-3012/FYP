@@ -1,0 +1,17 @@
+,value
+total_images,1200
+train_images,793
+val_images,140
+test_images,267
+unique_base_stems_on_disk,790
+unique_patients,218
+patients_in_multiple_splits,17
+ra_images,1120
+non_ra_images,80
+ra_pct,93.33
+metadata_rows,836
+metadata_stems_not_on_disk,46
+disk_stems_not_in_metadata,0
+imaging_centres,6
+image_format,BMP
+laterality_values,"L, R"
