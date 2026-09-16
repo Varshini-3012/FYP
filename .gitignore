@@ -1,7 +1,12 @@
-# ── Dataset (too large for GitHub — 12+ GB of BMP images) ───────────────────
-Dataset/
+# ── Dataset (too large for GitHub) ───────────────────────────────────────────
+# Original RA images (12+ GB of BMP files)
+Dataset/ra/
+Dataset/ms/
 Dataset.zip
+# Original MURA source files
 MURA_ MSK Xrays_files/
+# Copied MURA control images (~100 MB of PNG files — regenerate by running NB07)
+Dataset/mura_controls/
 
 # ── Model checkpoints (42–555 MB each — use Git LFS or store separately) ────
 models/*.pth
