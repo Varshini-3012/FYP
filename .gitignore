@@ -8,9 +8,8 @@ MURA_ MSK Xrays_files/
 # Dataset/ra/ — tracked with Git LFS (*.bmp)
 # Dataset/mura_controls/ — tracked with Git LFS (*.png)
 
-# ── Model checkpoints (42–555 MB each — use Git LFS or store separately) ────
-models/*.pth
-models/**/*.pth
+# ── Model checkpoints (tracked with Git LFS) ────
+# models/*.pth — NOW TRACKED WITH GIT LFS
 
 # ── Python cache ─────────────────────────────────────────────────────────────
 __pycache__/
